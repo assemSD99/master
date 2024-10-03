@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+
+# IntelliJ
+.idea/
+
+# Java
+target/
+
+# Environnement
+.env
